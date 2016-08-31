@@ -1,0 +1,6 @@
+printf("%d\n", 10)
+printf("%f\n", 3.14789657)
+printf("%0.2f\n", 3.8975678)
+printf("%o\n", 012)
+printf("%s\n", "This is a string")
+printf("%x\n", 0xA9)
